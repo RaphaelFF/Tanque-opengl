@@ -1,6 +1,5 @@
-# Tanque-opengl
  # Projeto OpenGL - Tanque em 3D
-
+<img src="/imag/Captura de tela 2024-09-25 205756.png" alt="Descrição da imagem">
 Este projeto utiliza a biblioteca OpenGL para renderizar um tanque 3D com movimentação e rotação interativa. O tanque pode ser controlado usando o teclado para simular uma visão de jogo, onde ele se move pelo ambiente, rotaciona a torre e o canhão, e interage com uma cena 3D.
 
 ## Funcionalidades
